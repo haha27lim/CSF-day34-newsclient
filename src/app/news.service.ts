@@ -5,7 +5,7 @@ import { HttpClient, HttpParams } from '@angular/common/http';
 import { COUNTRY_API, COUNTRY_CODES, NEWS_API } from './constants';
 
 
-const API_KEY = "__MY_API_KEYS"
+const API_KEY = "__YOUR_API_KEY__"
 
 // Declare that the service can be provided at the root level
 @Injectable({
